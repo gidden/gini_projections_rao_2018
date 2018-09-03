@@ -13,9 +13,3 @@ the manuscript.
 
 All figures generated from this dataset are included in `si_plots.ipynb`.
 
-There are also a number of analysis notebooks showing off different ways to
-slice and dice the data, including:
-
-- `gini_gdp_pc_plot_by_country.ipynb`
-- `gini_gdp_pc_plot_by_region.ipynb`
-
